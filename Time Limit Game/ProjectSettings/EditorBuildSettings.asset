@@ -6,30 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/1st Game.unity
+    path: Assets/GameAssets/1st Scenes/1st Game.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/1st Clear.unity
+    path: Assets/GameAssets/1st Scenes/1st Clear.unity
     guid: 938ab1bcefd1df541a82ad1825c2865e
   - enabled: 1
-    path: Assets/Scenes/1st STAGE.unity
+    path: Assets/GameAssets/1st Scenes/1st STAGE.unity
     guid: fdf7507e276090443a78912c10884b04
   - enabled: 1
-    path: Assets/Scenes/2nd Clear.unity
+    path: Assets/GameAssets/2nd Scenes/2nd Clear.unity
     guid: a00b3f407074daa49bab521de89ef77f
   - enabled: 1
-    path: Assets/Scenes/2nd Game.unity
+    path: Assets/GameAssets/2nd Scenes/2nd Game.unity
     guid: 9bf018104b918164f8f55f683d636279
   - enabled: 1
-    path: Assets/Scenes/2nd STAGE.unity
+    path: Assets/GameAssets/2nd Scenes/2nd STAGE.unity
     guid: 5f0dfa0d287239a4b93be4258d1c3abe
   - enabled: 1
-    path: Assets/Scenes/3rd Game.unity
+    path: Assets/GameAssets/3rd Scenes/3rd Game.unity
     guid: 3f46b5ab0123b7c4aa006d4b8242ebf6
   - enabled: 1
-    path: Assets/Scenes/3rd STAGE.unity
+    path: Assets/GameAssets/3rd Scenes/3rd STAGE.unity
     guid: 64dfaada1b74c514baecf69c8bc3979a
   - enabled: 1
-    path: Assets/Scenes/3rd Clear.unity
+    path: Assets/GameAssets/3rd Scenes/3rd Clear.unity
     guid: 2e5bd3c103ac2574eb4a1d7e23ecfacc
+  - enabled: 1
+    path: Assets/GameAssets/ExplanationScenes1/End Scene.unity
+    guid: 775977b4858cef64fb51b14984faa933
   m_configObjects: {}
